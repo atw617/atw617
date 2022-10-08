@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ![atw617's GitHub stats](https://github-readme-stats.vercel.app/api?username=atw617&hide=contribs,prs)
+
+![atw617's GitHub stats](https://github-readme-stats.vercel.app/api?username=atw617&hide=contribs,prs)
+
+![atw617's GitHub stats](https://github-readme-stats.vercel.app/api?username=atw617&count_private=true)
+
+![atw617's GitHub stats](https://github-readme-stats.vercel.app/api?username=atw617&show_icons=true)
+
+![atw617's GitHub stats](https://github-readme-stats.vercel.app/api?username=atw617&show_icons=true&theme=radical)
